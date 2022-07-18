@@ -1,3 +1,2 @@
 # test.xxx
-This is a test
-sth
+这是一个通讯录管理系统
